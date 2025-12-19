@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Noodles",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujx5jb6WvhHb7XcW46Rmel1lts4KHWkuBfw&s",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Manchurian",
+    "imageUrl": "https://storage.googleapis.com/cscom-2019.appspot.com/uploads/2018/08/Cabbage-Manchurian.jpg",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "name": "Pho",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ph%E1%BB%9F_b%C3%B2_%2839425047901%29.jpg",
+    "price": 350
+  },
+  {
+    "id": 4,
+    "name": "Chicken Fried Rice",
+    "imageUrl": "https://lifeloveandgoodfood.com/wp-content/uploads/2023/03/chicken_fried_rice00032a-1200x1200-1.jpg",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "name": "Chicken Chilly",
+    "imageUrl": "https://maunikagowardhan.co.uk/wp-content/uploads/2014/11/Indo-Chinese-Chilli-Chicken1-1024x683.jpg",
+    "price": 180
+  },
+  {
+    "id": 6,
+    "name": "Hakka Noodles",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHI6vHr6V8yiVoYNezh3ViC4ZcCD7U_0kuuw&s",
+    "price": 140
+  },
+  {
+    "id": 7,
+    "name": "Egg Fried Rice",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JI7E4rwNQEwgPJnuJxDL0etbZ05WuMBlzw&s",
+    "price": 180
+  },
+  {
+    "id": 8,
+    "name": "Manchurian Noodles",
+    "imageUrl": "https://i.ytimg.com/vi/MhiWI1bmbh0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8Z3sYjCmmMJDdihxQStU6nhmFmA",
+    "price": 145
+  },
+  {
+    "id": 9,
+    "name": "Manchrurian Rice",
+    "imageUrl": "https://i.ytimg.com/vi/KSmI5jkBQFw/maxresdefault.jpg",
+    "price": 160
+  }
+]
