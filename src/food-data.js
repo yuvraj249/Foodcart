@@ -163,12 +163,6 @@ const FOOD_DATA = [
         price: 20,
       },
       {
-        id: 25,
-        name: 'lasagna',
-        imageUrl: 'https://assets.bonappetit.com/photos/57adf3c353e63daf11a4dfa2/master/w_1280%2Cc_limit/lasagna-bolognese.jpg',
-        price: 80,
-      },
-      {
         id: 26,
         name: 'Risotto',
         imageUrl: 'https://cdn.jwplayer.com/v2/media/49emAtrw/thumbnails/2yYpPiJ0.jpg?width=1280',
@@ -183,7 +177,7 @@ const FOOD_DATA = [
       {
         id: 28,
         name: 'Garlic Bread',
-        imageUrl: 'https://static01.nyt.com/images/2018/12/11/dining/as-garlic-bread/as-garlic-bread-master768.jpg',
+        imageUrl: 'https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xMF9waG90b19vZl9nYXJsaWNfYnJlYWRfaXNvbGF0ZWRfb25fd2hpdGVfYmFja185ODUyYTAxNC0yN2NhLTQwYjctYmQxOC01NjUxZDg0MjE5NjUucG5n.png',
         price: 135,
       },
       {
@@ -224,7 +218,7 @@ const FOOD_DATA = [
       {
         id: 34,
         name: 'Enchiladas',
-        imageUrl: 'https://www.perfectitaliano.com.au/content/dam/perfectitaliano-aus/recipe/0_desktop/Desktop-Easy-Beef-Enchiladas.jpg',
+        imageUrl: 'https://static.vecteezy.com/system/resources/thumbnails/049/390/544/small/delicious-chicken-enchiladas-with-creamy-sauce-and-fresh-salad-on-a-transparent-background-png.png',
         price: 40,
       },
       {
