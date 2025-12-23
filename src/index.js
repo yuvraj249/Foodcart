@@ -2,12 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Provider } from 'react-redux';
 import './index.scss';
-import { UserProvider } from './context/user.context';
+//import { UserProvider } from './context/user.context';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router';
-import { CategoriesProvider } from './context/categories.context';
-import { CartProvider } from './context/cart.context';
+//import { CategoriesProvider } from './context/categories.context';
 import { store } from './store/store';
 
 
@@ -17,11 +16,11 @@ root.render(
     <Provider store={store}>
    <BrowserRouter>
     {/* <UserProvider> */}
-      <CategoriesProvider>
-       <CartProvider>
+      {/* <CategoriesProvider> */}
+       {/* <CartProvider> */}
         <App />
-       </CartProvider>
-      </CategoriesProvider>
+       {/* </CartProvider> */}
+      {/* </CategoriesProvider> */}
     {/* </UserProvider> */}
    </BrowserRouter>
    </Provider>
